@@ -1,0 +1,230 @@
+                                          /* oussama part */
+h1{
+    font-family: 'Rouge Script', cursive;
+    font-size: 40px;
+    margin-left: 25px;
+    margin-top: -10px;
+}
+#line{
+    width: 1px;
+    height: 40px;
+    background-color: silver;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+}
+.rbar{
+    float: right;
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    align-items: center;
+    margin-top:-20px;
+    margin-right: 30px;
+  
+}
+.rbar img{
+  width: 100px;
+}
+#lg{
+color: #4495E5;
+}
+
+h2{
+    font-size: 15px;
+    padding: 10px;
+    
+}
+
+.slv{
+    color: rgb(141, 138, 138);
+    display: flex;
+}
+form h1{
+    font-family: 'Quicksand', sans-serif;
+    padding: 20px;
+    font-size: 50px;
+    
+
+
+}
+form P{
+    font-family: 'Quicksand', sans-serif;
+    padding-left:48px;
+    font-size: 15px;
+    margin-top:-30px;
+    
+    
+
+}
+#vc{
+    height: 350px;
+    width: 333px;
+    padding-left:55em;
+    margin-top: -230px;
+}
+
+.gt{
+    height: 95px;
+    width: 250px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+}
+.trust{
+    height: 60px;
+    width: 250px;
+    padding-left: 10px;
+    margin-bottom: 60px;
+}
+.promo{
+  height:75px;
+  width: 75px;
+  padding-left: 180px;
+  position: absolute;
+  top: 150px;
+
+}
+
+
+#jjj{
+    color:#6B52E5 ;
+    font-size: 15px;
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    left: 40rem;
+    top: 13rem;
+    
+ 
+ }
+
+    
+
+@media (max-width:630px){
+    h1{
+        font-size: 10px;
+        margin-left: -5px;
+
+    }
+    h2{
+        font-size: 4.5px;
+        margin-top: -25px;
+        padding-left: 15px;
+    }
+    
+    #line{
+        width: 1px;
+        height: 15px;
+        margin-bottom: 35px;
+         
+
+    }
+    #lg{
+        margin-top: 15;
+        
+
+    }
+    img{
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    form h1{
+        font-family: 'Quicksand', sans-serif;
+        padding: 1px;
+        font-size: 13px;
+        }
+        form P{
+            font-family: 'Quicksand', sans-serif;
+            padding-left:0.1px;
+            font-size: 5px;
+            margin-top:-10px;
+            }
+    .trust{
+        height: 15px;
+        width: 50px;
+        padding-left: 5px;
+       position:absolute;
+       left: 60px;
+       top: 100px;
+    }
+
+    .gt{
+        height: 25px;
+        width: 60px;
+        padding-left: 2px;
+        position: absolute;
+        top: 100px;
+        left: 0px;
+    }
+    .promo{
+        height:30px;
+        width: 30px;
+       position: absolute;
+       left: 2px;
+       top: 40px;        
+      
+      }
+    #vc{
+        height: 65px;
+    width: 65px;
+    padding-left:13.5em;
+    margin-top:-50px;
+   
+     
+   }
+   #jjj{
+    color:#6B52E5 ;
+    font-size: 7px;
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    left: 10rem;
+    top: 4rem;
+    
+ 
+ }
+.left{
+  float: left;
+  width: 45%;
+  font-size: 10px;
+}
+.right{
+  float: left;
+  width: 45%;
+  font-size: 10px;
+  
+}
+.right ul li{
+  list-style: none;
+  font-family: 'Quicksand', sans-serif;
+
+}
+.left ul li{
+  list-style: none;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.COPY{
+  clear: both;
+}
+
+body {
+  background-color: rgb(249, 251, 252);
+  color: black;
+}
+
+
+
+
+
+/* On screens that are 600px wide or less, the background color is olive */
+@media screen and (max-width: 630px) {
+  body {
+    background-color: rgb(252, 252, 252);
+  }
+}
+.info{
+  background-color: rgb(198, 224, 245);
+  font-size: x-large;
+}
+}
